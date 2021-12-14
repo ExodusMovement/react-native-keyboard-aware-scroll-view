@@ -1,3 +1,8 @@
+## @exodus/react-native-keyboard-aware-scroll-view
+
+Keyboard aware scrollview with scroll position bug fixed
+
+
 # react-native-keyboard-aware-scroll-view
 
 <p>
